@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GKDEADDEVIL
-- 👀 I’m interested in Ethical Hacking, Bug hunting and also in programming (python, c, c ++)
+- 👀 I’m interested in Ethical Hacking, Bug hunting and also in programming (python, c, c++, JS, Bash, Java, Mysql)
 - 🌱 I’m currently learning Bug hunting and penetration testing
 - 💞️ I’m looking to collaborate on Bug Bounty hunting
 - 📫 How to reach me ...
