@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **kalyangopalam@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/GKDEADDEVIL/GKDEADDEVIL/blob/main/Kalyan%20Gopalam%20Resume%20(1).pdf](https://github.com/GKDEADDEVIL/GKDEADDEVIL/blob/main/Kalyan%20Gopalam%20Resume%20(1).pdf)
+- 📄 Know about my experiences [Resume](https://github.com/GKDEADDEVIL/GKDEADDEVIL/blob/main/Kalyan%20Gopalam%20Resume%20(1).pdf)
+
+-  My Gists [Gists](https://gist.github.com/GKDEADDEVIL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
