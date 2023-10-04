@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm GK Kalyan</h1>
 <h3 align="center">A passionate Bug Bounty Hunter at Hackerone.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkdeaddevil" alt="gkdeaddevil" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/gkdeaddevil" target="blank"><img src="https://img.shields.io/twitter/follow/gkdeaddevil?logo=twitter&style=for-the-badge" alt="gkdeaddevil" /></a> </p>
 
-- 🔭 I’m currently working on **Web Scrapper using NextJS 13**
+- 🔭 I’m currently working on [Web Scrapper using NextJS 13](https://github.com/GKDEADDEVIL/price-scrap)
 
-- 🌱 I’m currently learning **Rust, Google Cloud, Jenkins**
+- 🌱 I’m currently learning **OWASP Project, Docker**
 
 - 🤝 I’m looking for help with **Ransomware Detection & Breaking**
+
+- 👨‍💻 All of my projects are available at [https://github.com/GKDEADDEVIL?tab=repositories](https://github.com/GKDEADDEVIL?tab=repositories)
 
 - 💬 Ask me about **react, nodejs, mongodb, metasploit, wireshark, burpsuite**
 
@@ -15,10 +19,11 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/GKDEADDEVIL/GKDEADDEVIL/blob/main/Kalyan%20Gopalam%20Resume%20(1).pdf)
 
--  My Gists [Gists](https://gist.github.com/GKDEADDEVIL)
+- My Gists [Gists](https://gist.github.com/GKDEADDEVIL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/gkdeaddevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gkdeaddevil" height="30" width="40" /></a>
 <a href="https://twitter.com/gkdeaddevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gkdeaddevil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gk-eh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gk-eh" height="30" width="40" /></a>
 <a href="https://instagram.com/kanni_367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanni_367" height="30" width="40" /></a>
