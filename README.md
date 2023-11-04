@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm GK Kalyan</h1>
 <h3 align="center">A passionate Bug Bounty Hunter at Hackerone.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gkdeaddevil" alt="gkdeaddevil" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gkdeaddevil" target="blank"><img src="https://img.shields.io/twitter/follow/gkdeaddevil?logo=twitter&style=for-the-badge" alt="gkdeaddevil" /></a> </p>
 
 - 🔭 I’m currently working on [Web Scrapper using NextJS 13](https://github.com/GKDEADDEVIL/price-scrap)
