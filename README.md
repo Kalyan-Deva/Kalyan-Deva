@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/gkdeaddevil" target="blank"><img src="https://img.shields.io/twitter/follow/gkdeaddevil?logo=twitter&style=for-the-badge" alt="gkdeaddevil" /></a> </p>
 
-- 🔭 I’m currently working on [Web Scrapper using NextJS 13](https://github.com/GKDEADDEVIL/price-scrap)
+<!--- 🔭 I’m currently working on [Web Scrapper using NextJS 13](https://github.com/GKDEADDEVIL/price-scrap) -->
 
-- 🌱 I’m currently learning **OWASP Project, Docker**
+<!---- 🌱 I’m currently learning **OWASP Project, Docker** --->
 
-- 🤝 I’m looking for help with **Ransomware Detection & Breaking**
+- 🤝 I’m looking for help with **Bug Bounty Hunting Team**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GKDEADDEVIL?tab=repositories](https://github.com/GKDEADDEVIL?tab=repositories)
 
-- 💬 Ask me about **react, nodejs, mongodb, metasploit, wireshark, burpsuite**
+- 💬 Ask me about **react, nodejs, mongodb, metasploit, wireshark, burpsuite, Bug Bounty Hunting, THM, HTB or any Cyber Security Queries**
 
 - 📫 How to reach me **kalyangopalam@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/GKDEADDEVIL/GKDEADDEVIL/blob/main/Kalyan%20Gopalam%20Resume%20(1).pdf)
+- 📄 Know about my experiences [Resume](https://github.com/GKDEADDEVIL)
 
 - My Gists [Gists](https://gist.github.com/GKDEADDEVIL)
 
