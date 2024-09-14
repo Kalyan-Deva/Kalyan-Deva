@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Ransomware Detection & Breaking**
 
-- 👨‍💻 All of my projects are available at [kalyan-eh.vercel.app/portfolio](kalyan-eh.vercel.app/portfolio)
+- 👨‍💻 All of my projects are available at [https://kalyan-eh.vercel.app/portfolio](https://kalyan-eh.vercel.app/portfolio)
 
-- 📝 I regularly write articles on [kalyan-eh.vercel.app/blog](kalyan-eh.vercel.app/blog)
+- 📝 I regularly write articles on [https://kalyan-eh.vercel.app/blog](https://kalyan-eh.vercel.app/blog)
 
 - 💬 Ask me about **Cyberesecurity, Ethical Hacking, Penetration Testing, Security Researchreact, nodejs, mongodb, metasploit, wireshark, burpsuite**
 
 - 📫 How to reach me **kalyangopalam22@gmail.com**
 
-- 📄 Know about my experiences [kalyan-eh.vercel.app/credentials](kalyan-eh.vercel.app/credentials)
+- 📄 Know about my experiences [https://kalyan-eh.vercel.app/credentials](https://kalyan-eh.vercel.app/credentials)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
