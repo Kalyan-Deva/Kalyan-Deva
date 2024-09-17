@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://kalyan-eh.vercel.app/blog](https://kalyan-eh.vercel.app/blog)
 
-- 💬 Ask me about **Cyberesecurity, Ethical Hacking, Penetration Testing, Security Researchreact, nodejs, mongodb, metasploit, wireshark, burpsuite**
+- 💬 Ask me about **Cyberesecurity, Ethical Hacking, Penetration Testing, Security Researchreact, Full Stack Development, metasploit, wireshark, burpsuite**
 
 - 📫 How to reach me **kalyangopalam22@gmail.com**
 
