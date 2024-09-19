@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud security**
 
-- 🤝 I’m looking for help with **Ransomware Detection & Breaking**
+- 🤝 I’m looking for help with **Ransomware Detection & Breaking** 
 
 - 👨‍💻 All of my projects are available at [https://kalyan-eh.vercel.app/portfolio](https://kalyan-eh.vercel.app/portfolio)
 
