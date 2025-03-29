@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm GK Kalyan</h1>
-<h3 align="center">A passionate Bug Bounty Hunter at Hackerone.</h3>
+<h1 align="center">Hi 👋, I'm GK Kalyan (SXD - Deva)</h1>
+<h3 align="center">A passionate Bug Bounty Hunter, Full Stack Developer and a Hacker!!!</h3>
 
 <p align="left"> <a href="https://twitter.com/gkdeaddevil" target="blank"><img src="https://img.shields.io/twitter/follow/gkdeaddevil?logo=twitter&style=for-the-badge" alt="gkdeaddevil" /></a> </p>
 
-- 🔭 I’m currently working on [All-in-1 Note Maker](https://kalyan-eh.vercel.app/)
+- 🔭 I’m currently working on [Club Development](https://kalyan-eh.vercel.app/)
 
-- 🌱 I’m currently learning **Cloud security**
+- 🌱 I’m currently learning **Dockerization**
 
 - 🤝 I’m looking for help with **Ransomware Detection & Breaking** 
 
-- 👨‍💻 All of my projects are available at [https://kalyan-eh.vercel.app/portfolio](https://kalyan-eh.vercel.app/portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kalyan-eh.vercel.app/portfolio)
 
-- 📝 I regularly write articles on [https://kalyan-eh.vercel.app/blog](https://kalyan-eh.vercel.app/blog)
+- 📝 I regularly write articles on [Portfolio](https://kalyan-eh.vercel.app/blog)
 
 - 💬 Ask me about **Cyberesecurity, Ethical Hacking, Penetration Testing, Security Researchreact, Full Stack Development, metasploit, wireshark, burpsuite**
 
-- 📫 How to reach me **kalyangopalam22@gmail.com**
+- 📫 How to reach me **kalyangopalam22@gmail.com**, **sxd.dev.me@gmail.com**
 
 - 📄 Know about my experiences [https://kalyan-eh.vercel.app/credentials](https://kalyan-eh.vercel.app/credentials)
 
