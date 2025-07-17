@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkdeaddevil&label=Profile%20views&color=0e75b6&style=flat" alt="gkdeaddevil" /> </p>
 
-- 🔭 I’m currently working on [RedHawk Recon Suite](https://github.com/GKDEADDEVIL)
+- 🔭 I’m currently working on [RedHawk Recon Suite.](https://github.com/GKDEADDEVIL)
 
 - 🌱 I’m currently learning **Advanced exploit development (buffer overflows, ROP, shellcoding)** 
 
