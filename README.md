@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RedHawk Recon Suite](https://github.com/GKDEADDEVIL)
 
-- 🌱 I’m currently learning **Advanced exploit development (buffer overflows, ROP, shellcoding)**
+- 🌱 I’m currently learning **Advanced exploit development (buffer overflows, ROP, shellcoding)** 
 
 - 👯 I’m looking to collaborate on **Research Paper: Detection and Analysis of Fileless Ransomware and Hidden Persistence Mechanisms in Linux Environments**
 
