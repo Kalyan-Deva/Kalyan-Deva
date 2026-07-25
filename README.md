@@ -2,7 +2,7 @@
   Ready to publish — all links are wired.
 -->
 
-### Hi, I'm Kalyan 👋
+### Hi, I'm Kalyan (Dev)👋
 
 I'm a Cybersecurity grad student at **Northeastern University** (MS, '27), based in Boston.
 I build security tools, break things on purpose, and spend a lot of time on how real systems actually fail.
