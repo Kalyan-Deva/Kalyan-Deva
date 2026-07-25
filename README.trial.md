@@ -80,13 +80,13 @@ MySQL · PostgreSQL · MongoDB · Prisma · GitHub Actions · REST APIs
   <a href="https://github.com/Kalyan-Deva">
     <img
       alt="GitHub contribution statistics for Kalyan-Deva"
-      src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&theme=vision-friendly-dark&title_color=D85A30&icon_color=D85A30&text_color=c9c9c9&bg_color=0d1117"
+      src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&title_color=D85A30&icon_color=D85A30&text_color=c9c9c9&bg_color=0d1117"
     />
   </a>
-  <a href="https://github.com/[GITHUB_USERNAME]">
+  <a href="https://github.com/Kalyan-Deva">
     <img
       alt="Most used languages across public repositories"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&hide_border=true&hide=html,css,scss,jupyter%20notebook&langs_count=8&theme=vision-friendly-dark&title_color=D85A30&text_color=c9c9c9&bg_color=0d1117"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&hide_border=true&hide=html,css,scss,jupyter%20notebook&langs_count=8&title_color=D85A30&text_color=c9c9c9&bg_color=0d1117"
     />
   </a>
 </p>
