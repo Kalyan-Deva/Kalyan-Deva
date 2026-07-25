@@ -1,27 +1,33 @@
+<!--
+  Replace before publishing:
+  [PORTFOLIO_URL]   e.g. https://kalyangopalam.com
+  [LINKEDIN_URL]    e.g. https://linkedin.com/in/kalyan-gopalam
+-->
+
 <div align="center">
 
 # Kalyan Gopalam
 
-**Cybersecurity Engineer · Security Researcher · Product Builder**
+**Security Engineer · Researcher · Systems Builder**
 
-I design and build security-focused systems across application security, offensive research, detection engineering, and developer tooling.
+I design and build security systems — from application and offensive research
+to detection engineering and developer tooling.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kalyan--Deva-0D1117?style=flat-square&logo=github&logoColor=D4AF7A)](https://github.com/Kalyan-Deva)
-![Profile Views](https://komarev.com/ghpvc/?username=Kalyan-Deva&label=Profile%20Views&color=B8925A&style=flat-square)
+Boston · MS Cybersecurity, Northeastern University
 
 </div>
 
 ---
 
-## Current Focus
+## Focus
 
-- Building structured security platforms that improve research, assessment, and reporting workflows.
-- Developing full-stack products with an emphasis on secure architecture, operational clarity, and long-term maintainability.
-- Advancing practical work in application security, firmware security, network analysis, honeypots, and detection systems.
+- Security platforms that structure how research, assessment, and reporting actually get done.
+- Full-stack systems with an emphasis on secure architecture, operational clarity, and long-term maintainability.
+- Practical work across application security, firmware, network analysis, honeypots, and detection.
 
-## Areas of Work
+## Domains
 
-`Application Security` · `Offensive Security` · `Security Automation` · `Detection Engineering` · `Firmware Security` · `Network Security`
+`Application Security` · `Offensive Security` · `Detection Engineering` · `Firmware & Embedded` · `Security Automation` · `Network Security`
 
 ## Technology
 
@@ -41,7 +47,7 @@ I design and build security-focused systems across application security, offensi
 ![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=D4AF7A)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=D4AF7A)
 
-**Systems and Infrastructure**
+**Systems & Infrastructure**
 
 ![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=D4AF7A)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=D4AF7A)
@@ -49,49 +55,48 @@ I design and build security-focused systems across application security, offensi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=D4AF7A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=D4AF7A)
 
-## Selected Work
+**Security**
 
-<!-- Replace the placeholders below with your strongest public repositories. -->
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-161B22?style=flat-square&logo=burpsuite&logoColor=D4AF7A)
+![Wireshark](https://img.shields.io/badge/Wireshark-161B22?style=flat-square&logo=wireshark&logoColor=D4AF7A)
+![Snort](https://img.shields.io/badge/Snort-161B22?style=flat-square&logo=snort&logoColor=D4AF7A)
+![Nmap](https://img.shields.io/badge/Nmap-161B22?style=flat-square&logo=gnubash&logoColor=D4AF7A)
+
+## Selected Work
 
 | Project | Focus | Outcome |
 |---|---|---|
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Security research platform | Streamlines a complex assessment or investigation workflow into a structured system. |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Detection and monitoring | Improves visibility through actionable telemetry, analysis, and reporting. |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Application security | Identifies, validates, and communicates security risks within modern applications. |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Systems engineering | Demonstrates practical work across Linux, networking, automation, or embedded systems. |
+| [Lexicon](https://github.com/Kalyan-Deva) | Knowledge platform | Publishes structured technical knowledge across web, application, and terminal clients. |
+| [Bounty-Hawk](https://github.com/Kalyan-Deva) | Offensive research | Organizes targets, findings, recon data, and reporting inside a single workspace. |
+| [Talon](https://github.com/Kalyan-Deva) | Local-first tooling | Offline scope, notes, and finding management built on IndexedDB. |
+| [BountyDesk](https://github.com/Kalyan-Deva) | Application security | CVSS scoring, vulnerability intelligence, and report generation for assessment workflows. |
+| [Mockingbird](https://github.com/Kalyan-Deva) | Detection engineering | Raspberry Pi honeypot with FastAPI backend, real-time alerts, and live dashboard. |
+| NeuSense (MITRE eCTF 2026) | Embedded security | Authenticated encryption, key derivation, replay protection, and access control on constrained hardware. |
 
-## GitHub Overview
+## GitHub
 
 <div align="center">
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&hide_rank=true&hide_border=false&include_all_commits=true&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&icon_color=D4AF7A&border_color=30363D"
-  alt="Kalyan Gopalam GitHub statistics"
+  src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide=issues&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&icon_color=D4AF7A&border_color=30363D"
+  alt="Kalyan Gopalam — GitHub contribution statistics"
 />
-
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&border_color=30363D"
-  alt="Kalyan Gopalam top languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&border_color=30363D"
+  alt="Kalyan Gopalam — most used languages"
 />
 
 </div>
 
-<div align="center">
-
-<img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=Kalyan-Deva&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=D4AF7A&fire=D4AF7A&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=D4AF7A&sideLabels=8B949E&dates=8B949E"
-  alt="Kalyan Gopalam GitHub contribution streak"
-/>
-
-</div>
-
-## Connect
+## Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kalyan--Deva-0D1117?style=for-the-badge&logo=github&logoColor=D4AF7A)](https://github.com/Kalyan-Deva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=firefox&logoColor=D4AF7A)]([PORTFOLIO_URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=D4AF7A)]([LINKEDIN_URL])
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=maildotru&logoColor=D4AF7A)](mailto:gopalam.k@northeastern.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=D4AF7A)](https://github.com/Kalyan-Deva)
 
 </div>
