@@ -83,13 +83,13 @@ More releases and public builds are on the way — check the [pinned repositorie
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&include_all_commits=true&hide=issues&hide_rank=true&theme=tokyonight&hide_border=true"
-    alt="Kalyan-Deva's GitHub statistics"
+    src="./assets/github-stats.svg"
+    alt="Kalyan Gopalam's GitHub statistics"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&theme=tokyonight&hide_border=true"
-    alt="Kalyan-Deva's most used languages"
+    src="./assets/top-languages.svg"
+    alt="Kalyan Gopalam's most-used languages"
   />
 </p>
 
