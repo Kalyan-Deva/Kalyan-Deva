@@ -29,20 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=Kalyan-Deva
-            &custom_title=GitHub%20Overview
-            &show_icons=true
-            &include_all_commits=true
-            &hide=issues
-            &hide_rank=true
-            &disable_animations=true
-            &bg_color=0D1117
-            &title_color=D4AF7A
-            &text_color=C9D1D9
-            &icon_color=D4AF7A
-            &border_color=30363D
-            &border_radius=8
+          options: username=Kalyan-Deva&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&hide=issues&hide_rank=true&disable_animations=true&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&icon_color=D4AF7A&border_color=30363D&border_radius=8
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -50,20 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=Kalyan-Deva
-            &custom_title=Language%20Distribution
-            &layout=compact
-            &langs_count=8
-            &hide=html,css,scss,jupyter%20notebook
-            &size_weight=0.5
-            &count_weight=0.5
-            &disable_animations=true
-            &bg_color=0D1117
-            &title_color=D4AF7A
-            &text_color=C9D1D9
-            &border_color=30363D
-            &border_radius=8
+          options: username=Kalyan-Deva&custom_title=Language%20Distribution&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&border_color=30363D&border_radius=8
           path: assets/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
