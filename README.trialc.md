@@ -1,108 +1,97 @@
-<h1 align="center">Kalyan Gopalam</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Cybersecurity engineer building practical security tools, research systems, and developer-focused products.</strong>
-</p>
+# Kalyan Gopalam
 
-<p align="center">
-  Offensive security · Application security · Detection engineering · Security automation
-</p>
+**Cybersecurity Engineer · Security Researcher · Product Builder**
 
-<p align="center">
-  <a href="https://github.com/Kalyan-Deva">
-    <img src="https://komarev.com/ghpvc/?username=Kalyan-Deva&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" />
-  </a>
-</p>
+I design and build security-focused systems across application security, offensive research, detection engineering, and developer tooling.
 
-## 🔭 What I'm working on
+[![GitHub](https://img.shields.io/badge/GitHub-Kalyan--Deva-0D1117?style=flat-square&logo=github&logoColor=D4AF7A)](https://github.com/Kalyan-Deva)
+![Profile Views](https://komarev.com/ghpvc/?username=Kalyan-Deva&label=Profile%20Views&color=B8925A&style=flat-square)
 
-- Building security tooling that turns repetitive research workflows into structured, reusable systems.
-- Developing full-stack products with a focus on usability, reliability, and secure architecture.
-- Exploring application security, firmware security, honeypots, network internals, and detection engineering.
+</div>
 
-## 🧰 Tech I reach for
+---
 
-### Languages
+## Current Focus
 
-![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7aa2f7)
-![C](https://img.shields.io/badge/C-1a1b27?style=flat-square&logo=c&logoColor=7aa2f7)
-![Java](https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7)
-![Bash](https://img.shields.io/badge/Bash-1a1b27?style=flat-square&logo=gnubash&logoColor=7aa2f7)
+- Building structured security platforms that improve research, assessment, and reporting workflows.
+- Developing full-stack products with an emphasis on secure architecture, operational clarity, and long-term maintainability.
+- Advancing practical work in application security, firmware security, network analysis, honeypots, and detection systems.
 
-### Frameworks
+## Areas of Work
 
-![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=7aa2f7)
-![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=7aa2f7)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=7aa2f7)
-![Flask](https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=7aa2f7)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1b27?style=flat-square&logo=springboot&logoColor=7aa2f7)
+`Application Security` · `Offensive Security` · `Security Automation` · `Detection Engineering` · `Firmware Security` · `Network Security`
 
-### Systems and infrastructure
+## Technology
 
-![Linux](https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=7aa2f7)
-![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=7aa2f7)
-![Git](https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=7aa2f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7aa2f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=7aa2f7)
+**Languages**
 
-## 📌 Selected projects
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=D4AF7A)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=D4AF7A)
+![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=D4AF7A)
+![Java](https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=D4AF7A)
+![Bash](https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=D4AF7A)
 
-<!-- Replace the placeholders with your strongest repositories. -->
+**Application Engineering**
 
-| Project | What it delivers | Stack |
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=D4AF7A)
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=D4AF7A)
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=D4AF7A)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=D4AF7A)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-161B22?style=flat-square&logo=springboot&logoColor=D4AF7A)
+
+**Systems and Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=D4AF7A)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=D4AF7A)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=D4AF7A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=D4AF7A)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=D4AF7A)
+
+## Selected Work
+
+<!-- Replace the placeholders below with your strongest public repositories. -->
+
+| Project | Focus | Outcome |
 |---|---|---|
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | A concise description of the problem this project solves and who it helps. | `Python` `FastAPI` |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | A security-focused tool that improves a specific research or assessment workflow. | `TypeScript` `Next.js` |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | A practical system designed around automation, observability, or detection. | `Python` `Docker` |
-| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | A focused engineering project with a clear use case and maintainable architecture. | `C` `Linux` |
+| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Security research platform | Streamlines a complex assessment or investigation workflow into a structured system. |
+| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Detection and monitoring | Improves visibility through actionable telemetry, analysis, and reporting. |
+| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Application security | Identifies, validates, and communicates security risks within modern applications. |
+| [Project Name](https://github.com/Kalyan-Deva/REPOSITORY_NAME) | Systems engineering | Demonstrates practical work across Linux, networking, automation, or embedded systems. |
 
-## GitHub activity
+## GitHub Overview
 
-<p align="center">
-  <a href="https://github.com/Kalyan-Deva">
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&theme=tokyonight"
-      alt="Kalyan Gopalam's GitHub statistics"
-    />
-  </a>
-  <a href="https://github.com/Kalyan-Deva">
-    <img
-      height="175"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-      alt="Kalyan Gopalam's most-used languages"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Kalyan-Deva">
-    <img
-      src="https://streak-stats.demolab.com?user=Kalyan-Deva&theme=tokyonight&hide_border=true"
-      alt="Kalyan Gopalam's GitHub contribution streak"
-    />
-  </a>
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&hide_rank=true&hide_border=false&include_all_commits=true&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&icon_color=D4AF7A&border_color=30363D"
+  alt="Kalyan Gopalam GitHub statistics"
+/>
 
-<p align="center">
-  <a href="https://github.com/Kalyan-Deva">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Kalyan-Deva&theme=tokyo-night&hide_border=true&area=true"
-      alt="Kalyan Gopalam's GitHub activity graph"
-    />
-  </a>
-</p>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=D4AF7A&text_color=C9D1D9&border_color=30363D"
+  alt="Kalyan Gopalam top languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Kalyan-Deva&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=D4AF7A&fire=D4AF7A&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=D4AF7A&sideLabels=8B949E&dates=8B949E"
+  alt="Kalyan Gopalam GitHub contribution streak"
+/>
+
+</div>
 
 ## Connect
 
-<p align="center">
-  <a href="https://github.com/Kalyan-Deva">
-    <img
-      src="https://img.shields.io/badge/GitHub-Kalyan--Deva-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7"
-      alt="GitHub profile"
-    />
-  </a>
-</p>
+<div align="center">
 
-<!-- Add verified LinkedIn, website, YouTube, or X links here when ready. -->
+[![GitHub](https://img.shields.io/badge/GitHub-Kalyan--Deva-0D1117?style=for-the-badge&logo=github&logoColor=D4AF7A)](https://github.com/Kalyan-Deva)
+
+</div>
