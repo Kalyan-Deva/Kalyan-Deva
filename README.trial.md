@@ -25,6 +25,22 @@ I build security tools, break things on purpose, and spend a lot of time on how 
 
 ---
 
+### 🚀 Live & Shipped
+
+Things I've deployed, published, or released to the public.
+
+| Release | What it is | Where |
+|---|---|---|
+| **Lexicon (Web)** | Knowledge platform, live production build | [lexxicon.vercel.app](https://lexxicon.vercel.app) |
+| **Lexicon TUI** | Terminal client for Lexicon, published release | [GitHub Release](https://github.com/Kalyan-Deva) |
+| **Numa** | Native Android app, packaged APK release | [GitHub Release](https://github.com/Kalyan-Deva) |
+| **Bounty-Hawk** | Recon and bug bounty workspace, public repo | [github.com/Kalyan-Deva](https://github.com/Kalyan-Deva) |
+| **Portfolio** | Personal site, live deployment | [kalyangopalam.com](https://kalyangopalam.com) |
+
+More releases and public builds are on the way — check the [pinned repositories](https://github.com/Kalyan-Deva) for the latest.
+
+---
+
 ### 🧰 Tech I use
 
 **Languages**  
