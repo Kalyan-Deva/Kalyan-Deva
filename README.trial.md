@@ -77,9 +77,9 @@ MySQL · PostgreSQL · MongoDB · Prisma · GitHub Actions · REST APIs
 ## GitHub Activity
 
 <p align="left">
-  <a href="https://github.com/[GITHUB_USERNAME]">
+  <a href="https://github.com/Kalyan-Deva">
     <img
-      alt="GitHub contribution statistics for [GITHUB_USERNAME]"
+      alt="GitHub contribution statistics for Kalyan-Deva"
       src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues&theme=vision-friendly-dark&title_color=D85A30&icon_color=D85A30&text_color=c9c9c9&bg_color=0d1117"
     />
   </a>
