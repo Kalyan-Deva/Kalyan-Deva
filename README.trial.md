@@ -16,9 +16,9 @@ I build security tools, break things on purpose, and spend a lot of time on how 
 
 ### 🔧 Projects I actively work on
 
-- **[Numa](https://github.com/Kalyan-Deva)** — native Android adaptive-schedule and accountability app (Kotlin, Jetpack Compose, Room, home-screen widget).
-- **[Lexicon](https://github.com/Kalyan-Deva)** — knowledge platform with web, application, and terminal clients for structured technical notes.
-- **[Bounty-Hawk](https://github.com/Kalyan-Deva)** — recon and bug bounty workspace for organizing targets, findings, and reports.
+- **[Numa](https://github.com/Kalyan-Deva/Numa)** — native Android adaptive-schedule and accountability app (Kotlin, Jetpack Compose, Room, home-screen widget).
+- **[Lexicon](https://github.com/Kalyan-Deva/Lexicon)**`Private Repo, Still in Development` — knowledge platform with web, application, and terminal clients for structured technical notes.
+- **[Bounty-Hawk](https://github.com/Kalyan-Deva/Bounty-Hawk)** — recon and bug bounty workspace for organizing targets, findings, and reports.
 - **[BountyDesk](https://github.com/Kalyan-Deva)** — Next.js AppSec workspace with CVSS scoring, vuln intelligence, and report generation.
 - **MITRE eCTF 2026 — NeuSense** — secure embedded design: key derivation, AEAD, replay protection, access control on constrained hardware.
 - **Redhawk** *(in progress — public soon)* — new security project, details to follow.
@@ -32,9 +32,9 @@ Things I've deployed, published, or released to the public.
 | Release | What it is | Where |
 |---|---|---|
 | **Lexicon (Web)** | Knowledge platform, live production build | [lexxicon.vercel.app](https://lexxicon.vercel.app) |
-| **Lexicon TUI** | Terminal client for Lexicon, published release | [GitHub Release](https://github.com/Kalyan-Deva) |
-| **Numa** | Native Android app, packaged APK release | [GitHub Release](https://github.com/Kalyan-Deva) |
-| **Bounty-Hawk** | Recon and bug bounty workspace, public repo | [github.com/Kalyan-Deva](https://github.com/Kalyan-Deva) |
+| **Lexicon TUI** | Terminal client for Lexicon, published release | [GitHub Release](https://github.com/Kalyan-Deva/Lexicon) |
+| **Numa** | Native Android app, packaged APK release | [GitHub Release](https://github.com/Kalyan-Deva/Numa) |
+| **Bounty-Hawk** | Recon and bug bounty workspace, public repo | [github.com/Kalyan-Deva](https://github.com/Kalyan-Deva/Bounty-Hawk) |
 | **Portfolio** | Personal site, live deployment | [kalyangopalam.com](https://kalyangopalam.com) |
 
 More releases and public builds are on the way — check the [pinned repositories](https://github.com/Kalyan-Deva) for the latest.
@@ -78,10 +78,20 @@ More releases and public builds are on the way — check the [pinned repositorie
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub Stats
 
-![Kalyan-Deva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=tokyonight)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&theme=tokyonight)
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Kalyan-Deva&show_icons=true&include_all_commits=true&hide=issues&hide_rank=true&theme=tokyonight&hide_border=true"
+    alt="Kalyan-Deva's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-Deva&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&theme=tokyonight&hide_border=true"
+    alt="Kalyan-Deva's most used languages"
+  />
+</p>
 
 ---
 
