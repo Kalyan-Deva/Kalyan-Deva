@@ -3,17 +3,14 @@ name: Update GitHub Stats
 on:
   schedule:
     - cron: "0 3 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/update-readme-stats.yml"
 
 permissions:
   contents: write
+
+concurrency:
+  group: github-readme-stats
+  cancel-in-progress: true
 
 jobs:
   generate-stats:
@@ -22,19 +19,17 @@ jobs:
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Create assets directory
+        run: mkdir -p assets
 
       - name: Generate GitHub stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=Kalyan-Deva
-            &show_icons=true
-            &include_all_commits=true
-            &hide=issues
-            &hide_rank=true
-            &theme=tokyonight
-            &hide_border=true
+          options: username=Kalyan-Deva&show_icons=true&include_all_commits=true&hide=issues&hide_rank=true&theme=tokyonight&hide_border=true
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -42,22 +37,41 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: >-
-            username=Kalyan-Deva
-            &layout=compact
-            &langs_count=8
-            &hide=html,css,scss,jupyter%20notebook
-            &size_weight=0.5
-            &count_weight=0.5
-            &theme=tokyonight
-            &hide_border=true
+          options: username=Kalyan-Deva&layout=compact&langs_count=8&hide=html,css,scss,jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true
           path: assets/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated cards
+      - name: Commit and push generated cards
+        shell: bash
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.svg
-          git diff --cached --quiet || git commit -m "chore: update GitHub statistics"
-          git push
+
+          git add assets/github-stats.svg assets/top-languages.svg
+
+          if git diff --cached --quiet; then
+            echo "No card changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub statistics"
+
+          # Incorporate commits added after this workflow started.
+          git pull --rebase origin main
+
+          # Retry in case another commit lands during the first push.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Statistics successfully pushed."
+              exit 0
+            fi
+
+            echo "Push attempt ${attempt} failed; rebasing and retrying..."
+            git pull --rebase origin main
+            sleep 5
+          done
+
+          echo "Unable to push after three attempts."
+          exit 1
