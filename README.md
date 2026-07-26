@@ -31,7 +31,7 @@ Things I've deployed, published, or released to the public.
 
 | Release | What it is | Where |
 |---|---|---|
-| **Lexicon (Web)** | Knowledge platform, live production build | [lexxicon.vercel.app](https://lexxicon.vercel.app) |
+| **Lexicon (Web)** | Knowledge platform, live production build | [lexxicon.vercel.app](https://lexicon.kalyangopalam.com) |
 | **Lexicon TUI** | Terminal client for Lexicon, published release | [GitHub Release](https://github.com/Kalyan-Deva/Lexicon) |
 | **Numa** | Native Android app, packaged APK release | [GitHub Release](https://github.com/Kalyan-Deva/Numa) |
 | **Bounty-Hawk** | Recon and bug bounty workspace, public repo | [github.com/Kalyan-Deva](https://github.com/Kalyan-Deva/Bounty-Hawk) |
